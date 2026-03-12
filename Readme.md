@@ -38,7 +38,8 @@ This project was developed as a **portfolio demonstration** to showcase:
 
 ### Data Filtering
 
-![Filter Screenshot](images/dashboard_filters.png)
+<!-- ![Filter Screenshot](images/dashboard_filters.png) -->
+<img src="images/dashboard_filters.png" width="600" height="300">
 
 ### Data Visualization
 
